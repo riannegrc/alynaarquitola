@@ -1,0 +1,281 @@
+body {
+	background: #999999;
+	text-align: center;
+}
+
+h1 {
+	color: #EBCFC4;
+	font-family: Goudy Stout;
+	font-size: 45px;
+}
+
+h2 {
+	color: #EBCFC4;
+	font-family: Goudy Stout;
+	font-size: 30px;
+}
+
+h3 {
+	color: #EBCFC4;
+	font-family: Goudy Stout;
+	font-size: 30px;
+}
+	
+p {
+	font-family: Goudy Old Style;
+	font-size: 25px;
+	color: #EBCFC4;
+}
+
+.showcase {
+	padding: 200px;
+	margin-bottom: 10px;
+	border: 10px mistyrose solid;
+	background-image: url(../images/1.jpg);
+}
+
+.container1 > div {
+	padding: 100px;
+	border:	5px mistyrose solid;
+	text-align:	center;
+	background: white;
+	color: black;
+}
+
+.container1 {
+	margin:10px;
+	padding: 10px;
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: auto auto;
+}
+
+#box1 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 1/2;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box2 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box3 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 2/3;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box4 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box5 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 3/4;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box6 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box7 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 4/5;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box8 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box9 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 5/6;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box10 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box11 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 6/7;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box12 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box13 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 7/8;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box14 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box15 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 8/9;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box16 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box17 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 9/10;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box18 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box19 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 10/11;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box20 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box21 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 11/12;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box22 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box23 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 12/13;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box24 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box25 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 13/14;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box26 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box27 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 14/15;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box28 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box29 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 15/16;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box30 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+#box31 {
+	color: white;
+	grid-column: 1/2;
+	grid-row: 16/17;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box32 {
+	font-size: 21px;
+	font-family: courier new;
+	background-color: #EBCFC4;
+}
+
+h4 {
+	color: #EBCFC4;
+	font-family: Goudy Stout;
+	font-size: 30px;
+}
